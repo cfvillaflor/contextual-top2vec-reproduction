@@ -1,0 +1,10 @@
+numpy==1.26.4
+torch==2.2.2
+transformers==4.41.2
+scikit-learn
+pandas
+jupyter
+sentence-transformers
+umap-learn
+hdbscan
+top2vec

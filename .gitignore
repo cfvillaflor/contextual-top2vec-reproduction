@@ -1,0 +1,45 @@
+# Python environment
+ctop2vec-env/
+venv/
+.venv/
+env/
+__pycache__/
+*.pyc
+*.pyo
+
+# Jupyter
+.ipynb_checkpoints/
+
+# macOS
+.DS_Store
+
+# Hugging Face / transformer caches
+.cache/
+huggingface/
+transformers/
+
+# Saved Top2Vec models
+models/
+
+# Large model files
+*.bin
+*.safetensors
+*.pt
+*.pth
+*.ckpt
+
+# Raw datasets
+data/raw/
+
+# Temporary files
+*.tmp
+*.log
+
+# IDE files
+.vscode/
+.idea/
+
+# Secrets
+.env
+*.key
+credentials.json
